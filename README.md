@@ -1,6 +1,6 @@
 # lab_docs
 
-[Weekly Reports](weekly-reports)
+[Weekly Reports](https://github.com/m2murphy/lab_docs/blob/Weekly-Reports/weekly-reports.md)
 
 
 ## Experiment Notes
