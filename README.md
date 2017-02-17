@@ -1,8 +1,8 @@
 # lab_docs
 
-[Weekly Reports](lab_docs/weekly-reports)
+[Weekly Reports](weekly-reports)
 
 
 ## Experiment Notes
-[Outline for RscS deficient ES114 rescue by MB11B1 genes](lab_docs/Experiment-1)
+[Outline for RscS deficient ES114 rescue by MB11B1 genes](Experiment-1)
 
