@@ -1,5 +1,4 @@
-# lab_docs
-## Weekly Report #1 
+# Weekly Report #1 
 *Week of February 20th through 24th*
 ## goals
 1. Optimize coniditions to introduce transposon to community of MB11B1
