@@ -1,4 +1,4 @@
-# lab_docs
+# Megan's Lab Docs
 
 [Weekly Reports](https://github.com/m2murphy/lab_docs/blob/Weekly-Reports/weekly-reports.md)
 
