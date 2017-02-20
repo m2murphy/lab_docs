@@ -8,5 +8,5 @@
 
 
 ## Python Notes
-[Udacity lectures](https://github.com/m2murphy/lab_docs/tree/master)
+[Udacity lectures](https://github.com/m2murphy/lab_docs/blob/master/python-notes.md#python-notes-on-udacity)
 
