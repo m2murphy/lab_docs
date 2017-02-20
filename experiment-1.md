@@ -25,6 +25,11 @@
 ~note which Mb11B1 genes restored colonization, call them 'Es114-rescue-MB11B1' genes for now
 
 ## Future durections and confirmations
-9. delete 'Es114-rescue-MB11B1' genes in MB11B1 and confirm **no growth**
+9. delete 'Es114-rescue-MB11B1' genes in MB11B1 and confirm no colonization
 
 10. Overexpress 'Es114-rescue-MB11B1' genes in Mb11B1 genes and confirm wrinkle maybe if they dont regularly do that
+
+What does a successful rescue mean? 
+    Is Syp reactivated, meaning the MB11B1 gene stood in for RscS? 
+What does an unsuccessful rescue mean?
+    Different pathway altogether is responsible for colonization in MB11B1. 
