@@ -25,7 +25,29 @@ if x<0:
 return x
 
 
+Quiz: define bigger. 
 
-Quiz define bigger. 
+def bigger(x, y): 
+  if x>y:
+    return x
+  return y
+  
 
-bigger (2,7) => 
+*Function definitions*
+Procedure is something that takes input in, does some work on those inputs, and produces outputs. Allows a small amount of code to do a bunch of different things. 
+
+
+inputs are just a list of names followed by commas. () no input. (page) one input. (a, b, c, d) 4 inputs. 
+
+block is the body of the procedure. indented inside the definition. (4 spaces is the convention in python)
+
+def <name> (parameters):
+  
+  <block>
+  
+  everything indented is in the block. 
+  
+  ###What will we learn? 
+  -Functions, for ex. print "Hello World"
+  -new Ideas (lessons 2 and 3). Classes and object oriented programming. 
+  
