@@ -19,6 +19,6 @@
 
 ## plans for next week  
 1. Gather data for motility assay
-2. Next steps for library
-> Grow mating plates for controls: Only donor and only recipient 
+2. Next steps for library  
+> Grow mating plates for controls: Only donor and only recipient   
 > Use more than one amount of Erm and see what's best for MB11B1 
